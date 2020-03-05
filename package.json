@@ -1,0 +1,20 @@
+{
+  "name": "formidable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtries/node-formidable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtries/node-formidable/issues"
+  },
+  "homepage": "https://github.com/dtries/node-formidable#readme"
+}
